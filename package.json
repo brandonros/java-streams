@@ -1,0 +1,26 @@
+{
+  "name": "java-streams",
+  "version": "1.0.0",
+  "description": "Java 8 stream API for node.js",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brandonros/java-streams.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brandonros/java-streams/issues"
+  },
+  "homepage": "https://github.com/brandonros/java-streams#readme",
+  "dependencies": {
+    "through2": "^2.0.3"
+  }
+}
